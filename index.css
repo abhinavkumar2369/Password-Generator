@@ -18,6 +18,7 @@ body{
     align-items: center;
     font-family: "CerebriSansPro", "Inter", sans-serif;
     overflow: hidden;
+    margin: 0px;
 }
 
 /* ---- Main Container ----*/

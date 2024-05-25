@@ -4,6 +4,7 @@
      <br/>
      <br/>
      <img alt="Static Badge" src="https://img.shields.io/badge/Website-red?style=for-the-badge">
+     <img alt="Static Badge" src="https://img.shields.io/badge/Web%20Development-7F00FF?style=for-the-badge">
      <br/>
      <br/>
      <!-- Open Source -->
@@ -44,7 +45,12 @@
 
 
 ## Overview ✨ 
-This is a simple web-based password generator that allows users to generate strong and secure passwords based on their preferences. Users can specify the length of the password and choose whether to include uppercase letters, lowercase letters, numbers, and symbols.
+- This is a simple web-based password generator that allows users to generate strong and secure passwords based on their preferences.
+- Users can specify the length of the password and choose whether to include uppercase letters, lowercase letters, numbers, and symbols.
+
+
+<!------------------------------------------------->
+
 
 ## Features 📈
 - Customize password length.
@@ -53,9 +59,19 @@ This is a simple web-based password generator that allows users to generate stro
 - Copy generated passwords to the clipboard.
 - Save generated passwords as text files.
 
-## [➡️ Generate Password ](https://abhinav2369.github.io/Password-Generator/)
 
+<!------------------------------------------------->
+
+
+## [➡️ Generate Password ](https://abhinav2369.github.io/Password-Generator/)
 ![Password Generator](https://github.com/abhinav2369/Password-Generator/assets/170245635/3a58ad4e-2543-4e6c-8b75-7ce84fc4599c)
+
+
+<!------------------------------------------------->
+
+
+## Attribution 🙏
+- Logo Image used in the Repository belong to the [SVG Repo](https://www.svgrepo.com/) Website.
 
 
 <!------------------------------------------------->
